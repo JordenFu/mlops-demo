@@ -1,0 +1,22 @@
+# Python butecode / cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# Virtual env
+.venv/
+env/
+venv/
+
+# Coverage
+.coverage
+htmlcov/
+
+# OS / editor
+.DS_Store
+.vscode/
+EOF
